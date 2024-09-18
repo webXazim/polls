@@ -429,7 +429,7 @@
         "kind": 5,
         "importPath": "pollsapp.settings",
         "description": "pollsapp.settings",
-        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'polls',\n    'debug_toolbar'\n]",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'polls',\n]\nMIDDLEWARE = [",
         "detail": "pollsapp.settings",
         "documentation": {}
     },
